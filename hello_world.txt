@@ -1,1 +1,2 @@
 Hello, I'm here!
+And now I can see the text!  That's strange, I wonder what happened.
